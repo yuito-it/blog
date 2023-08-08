@@ -15,8 +15,7 @@ paginate = 20
 # 自己紹介
 [Author]
     name = "Author"
-    bio = "神山まるごと高専を目指す、一介の中学三年生。
-    ポリシーは「なんでもやってみる」"
+    bio = "神山まるごと高専を目指す、一介の中学三年生。\n ポリシーは「なんでもやってみる」"
     avatar = "img/avatar.png"
 
 [Params]
