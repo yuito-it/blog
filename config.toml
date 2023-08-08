@@ -14,13 +14,13 @@ paginate = 20
 
 # 自己紹介
 [Author]
-    name = "Author"
+    name = "唯人"
     bio = "神山まるごと高専を目指す、一介の中学三年生。\n ポリシーは「なんでもやってみる」"
     avatar = "img/avatar.png"
 
 [Params]
     customCSS = ["css/custom.css"]
-    copyright = "Author"
+    copyright = "(c)yuito-it 2023,(c)kat0h 2021"
     readmore = true
     authorbox = true
     post_meta = ["date", "categories"]
@@ -28,7 +28,7 @@ paginate = 20
 
 # ページのテーマカラー
 [Params.style.vars]
-  highlightColor = "#ccffff"
+  highlightColor = "#bf7fff"
 
 # SNS等のユーザー名
 [Params.widgets.social]
