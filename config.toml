@@ -1,5 +1,5 @@
 # 公開するページのURL
-baseURL = "https://kat0h.github.io/hugo-blog-template"
+baseURL = "https://yuito-it.github.io/blog"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
@@ -7,7 +7,7 @@ HasCJKLanguage = true
 enableRobotsTXT = true
 
 # ブログのタイトル
-title = "hugo-blog-template"
+title = "Yuito's Develpment Blog"
 
 theme = "mainroad"
 paginate = 20
@@ -15,7 +15,8 @@ paginate = 20
 # 自己紹介
 [Author]
     name = "Author"
-    bio = "ここに自己紹介を入れることができます"
+    bio = "神山まるごと高専を目指す、一介の中学三年生。
+    ポリシーは「なんでもやってみる」"
     avatar = "img/avatar.png"
 
 [Params]
@@ -28,12 +29,14 @@ paginate = 20
 
 # ページのテーマカラー
 [Params.style.vars]
-  highlightColor = "#e22d30"
+  highlightColor = "#ccffff"
 
 # SNS等のユーザー名
 [Params.widgets.social]
-  twitter = "uvrub"
-  github = "kato-k"
+  twitter = "yuito_it_ "
+  github = "yuiてれぐらむto-it"
+  telegram = "yuitoENGINEER"
+  email = "yuito_it@outlook.jp"
 
 [Params.sidebar]
     home = "right"
