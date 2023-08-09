@@ -9,7 +9,7 @@ enableRobotsTXT = true
 # ブログのタイトル
 title = "Yuito's Develpment Blog"
 
-theme = "mainroad"
+theme = "mainroad-yuito-remix"
 paginate = 20
 
 # 自己紹介
