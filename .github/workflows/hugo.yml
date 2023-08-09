@@ -61,6 +61,11 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
+      - name: Ping to Google
+        run: |
+          curl -X GET "http://www.google.com/ping?sitemap=https://yuito-it.github.io/blog/sitemap.xml"
+          curl -X GET "http://www.google.com/ping?sitemap=https://yuito-it.github.io/blog/rss/feed.xml"
+          curl -X GET "http://www.google.com/ping?sitemap=https://yuito-it.github.io/blog/rss/atom.xml"
 
   # Deployment job
   deploy:
