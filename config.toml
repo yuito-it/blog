@@ -12,6 +12,9 @@ title = "Yuito's Develpment Blog"
 theme = "Mainroad"
 paginate = 20
 
+# コメント用
+disqusShortname = "yuito-it"
+
 # 自己紹介
 [Author]
     name = "唯人"
