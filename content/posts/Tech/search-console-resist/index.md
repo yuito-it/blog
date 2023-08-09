@@ -2,7 +2,7 @@
 title: "Google Search Consoleに登録した話 ~とりあえずサイトに登録だけ~"
 date: 2023-08-09
 categories: ["Tech"]
-tags: ["Hugo","Gitthub Pages","Markdown"]
+tags: ["Hugo","Google Analytics","Google Search Console"]
 ---
 # Google Search Consoleに登録した話
 いや～、やっぱねぇ、検索に引っかかってもらいたいよね。始めたからには。
