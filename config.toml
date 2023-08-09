@@ -43,3 +43,5 @@ paginate = 20
     single = "right"
     widgets = ["search", "recent", "categories", "taglist", "social"]
 
+[googleAnalytics]
+  googleAnalytics = 'G-S01FFC4N61'
