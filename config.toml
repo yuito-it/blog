@@ -6,6 +6,9 @@ DefaultContentLanguage = "ja"
 HasCJKLanguage = true
 enableRobotsTXT = true
 
+# GA
+googleAnalytics = 'G-S01FFC4N61'
+
 # ブログのタイトル
 title = "Yuito's Develpment Blog"
 
@@ -42,6 +45,3 @@ paginate = 20
     list = "right"
     single = "right"
     widgets = ["search", "recent", "categories", "taglist", "social"]
-
-[googleAnalytics]
-  googleAnalytics = 'G-S01FFC4N61'
