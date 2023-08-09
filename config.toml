@@ -12,7 +12,7 @@ googleAnalytics = 'G-S01FFC4N61'
 # ブログのタイトル
 title = "Yuito's Develpment Blog"
 
-theme = "mainroad"
+theme = "stack"
 paginate = 20
 
 # 自己紹介
@@ -22,8 +22,9 @@ paginate = 20
     avatar = "img/avatar.png"
 
 [Params]
+    description = "Yuito's Personal blog about everything."
     customCSS = ["css/custom.css"]
-    copyright = "(c)yuito-it 2023,(c)kat0h 2021"
+    copyright = "yuito-it,©kat0h 2021"
     readmore = true
     authorbox = true
     post_meta = ["date", "categories"]
