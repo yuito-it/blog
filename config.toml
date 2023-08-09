@@ -36,7 +36,7 @@ disqusShortname = "yuito-it"
 # SNS等のユーザー名
 [Params.widgets.social]
   twitter = "yuito_it_ "
-  github = "yuiてれぐらむto-it"
+  github = "yuito-it"
   telegram = "yuitoENGINEER"
   email = "yuito_it@outlook.jp"
 

@@ -1,0 +1,15 @@
+name: update-sitemap
+
+on:
+  schedule:
+    - cron: '0 15 * * *'
+
+jobs:
+  update-sitemap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping to Google
+        run: |
+          curl -X GET "http://www.google.com/ping?sitemap=https://yuito-it.github.io/blog/sitemap.xml"
+          curl -X GET "http://www.google.com/ping?sitemap=https://yuito-it.github.io/blog/rss/feed.xml"
+          curl -X GET "http://www.google.com/ping?sitemap=https://yuito-it.github.io/blog/rss/atom.xml"
