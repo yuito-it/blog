@@ -17,6 +17,7 @@ Google Search Console って、実は自分２回目です。
 準備物
 - Google アカウント
 - やる気
+
 で、まず、[GoogleAnalytics](https://analytics.google.com)に行きます。
 {{<figure src="./Account.png" alt="アカウントを登録" width="75%">}}
 こんなんが出てくるんじゃないかな？(すいません、もうアカウント持ってるんでわかりません。)
