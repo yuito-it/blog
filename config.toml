@@ -32,6 +32,7 @@ enableGitInfo = true
     authorbox = true
     post_meta = ["date", "categories"]
     twitter_cards = true
+    listPageDateFormat = "2006-01-02 15:04"
     singlePageDateFormat = "2006-01-02 15:04"
 
 # ページのテーマカラー
