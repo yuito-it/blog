@@ -9,6 +9,8 @@ enableRobotsTXT = true
 # ブログのタイトル
 title = "Yuito's Develpment Blog"
 
+googleAnalytics = "G-S01FFC4N61"
+
 theme = "Mainroad"
 paginate = 20
 
