@@ -46,8 +46,7 @@ Google Search Console って、実は自分２回目です。
 で、実装手順が出てきますが無視。
 
 ```config.toml
-[googleAnalytics]
-  googleAnalytics = 'G-から始まる測定ID'
+googleAnalytics = 'G-から始まる測定ID'
 ```
 とすればOKです。
 これで、pushして放置。
