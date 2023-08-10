@@ -1,6 +1,8 @@
 name: update-sitemap
 
 on:
+  push:
+    branches: ["main"]
   schedule:
     - cron: '0 15 * * *'
 
