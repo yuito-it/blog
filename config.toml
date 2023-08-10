@@ -48,5 +48,3 @@ disqusShortname = "yuito-it"
     single = "right"
     widgets = ["search", "recent", "categories", "taglist", "social"]
 
-[googleAnalytics]
-  googleAnalytics = 'G-S01FFC4N61'
