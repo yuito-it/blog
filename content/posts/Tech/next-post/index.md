@@ -1,6 +1,6 @@
 ---
 title: "Hugoで「前の投稿」ボタンが出てこなかった話"
-date: 2023-08-10
+date: 2023-08-10 12:03:00
 categories: ["Tech"]
 tags: ["Hugo","md","yml"]
 pager: 4

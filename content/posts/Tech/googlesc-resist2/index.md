@@ -1,6 +1,6 @@
 ---
 title: "Google Search Consoleに登録した話 ~sitemap登録~"
-date: 2023-08-10
+date: 2023-08-10 14:56:00
 categories: ["Tech"]
 tags: ["Hugo","Google Search Console","GithubActions"]
 pager: 3
