@@ -30,7 +30,7 @@ disqusShortname = "yuito-it"
     authorbox = true
     post_meta = ["date", "categories"]
     twitter_cards = true
-    singlePageDateFormat = "2006-01-02 15:04:05"
+    singlePageDateFormat = "2006-01-02 15:04"
 
 # ページのテーマカラー
 [Params.style.vars]
