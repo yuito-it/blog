@@ -17,6 +17,8 @@ paginate = 20
 # コメント用
 disqusShortname = "yuito-it"
 
+enableGitInfo = true
+
 # 自己紹介
 [Author]
     name = "唯人"
