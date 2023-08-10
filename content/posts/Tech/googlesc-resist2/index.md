@@ -32,7 +32,7 @@ rssは設定が必要なのでめんどいからやりません。今回は割�
 
 GithubPagesなので、GithubActionsつかえるやん！！って思って頑張って組みました。
 
-{{<script src="https://gist.github.com/yuito-it/fa3777cb5b76833ee432eef666d9e199.js">}}{{</script> }}
+{{<script src="https://gist.github.com/yuito-it/fa3777cb5b76833ee432eef666d9e199.js"></script>|safeJS}}
 
 こんな感じで組みました。
 ちなみに、rssやってないので、下の２行は無駄ですww
