@@ -5,6 +5,7 @@ categories: ["Tech"]
 tags: ["Hugo","Gitthub Pages","Markdown"]
 pager: true
 weight: 0
+toc: true
 ---
 <!-- menu: mainを使うとトップバーに固定される -->
 
