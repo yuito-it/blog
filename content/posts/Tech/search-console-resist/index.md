@@ -4,7 +4,7 @@ date: 2023-08-09
 categories: ["Tech"]
 tags: ["Hugo","Google Analytics","Google Search Console"]
 pager: true
-weight: 1
+weight: -1
 ---
 いや～、やっぱねぇ、検索に引っかかってもらいたいよね。始めたからには。
 
