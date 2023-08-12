@@ -2,7 +2,7 @@
 title: "Hugoで「前の投稿」ボタンが出てこなかった話"
 date: 2023-08-10
 categories: ["Tech"]
-tags: ["Hugo","md","ym
+tags: ["Hugo","md","yml"]
 weight: -3
 toc: true
 description: "Hugoで前(次)の投稿へボタンが出てこなかったのを、解決する話。参考までに..."
