@@ -14,4 +14,4 @@ jobs:
         run: |
           curl -X GET "http://www.google.com/ping?sitemap=https://yuito-it.github.io/blog/sitemap.xml"
           curl -X GET "http://www.google.com/ping?sitemap=https://yuito-it.github.io/blog/rss/feed.xml"
-          curl -X GET "http://www.google.com/ping?sitemap=https://yuito-it.github.io/blog/rss/atom.xml"
+          curl -X GET "http://www.google.com/ping?sitemap=https://yuito-it.github.io/blog/index.xml"
