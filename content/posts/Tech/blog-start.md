@@ -3,7 +3,8 @@ title: "ブログ開設 ~初めてのHugo~"
 date: 2023-08-09
 categories: ["Tech"]
 tags: ["Hugo","Gitthub Pages","Markdown"]
-pager: 1
+pager: true
+weight: 0
 ---
 <!-- menu: mainを使うとトップバーに固定される -->
 
