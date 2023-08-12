@@ -1,10 +1,12 @@
 ---
 title: "Google Search Consoleに登録した話 ~sitemap登録~"
+discription: "サイトマップ送信して、ちゃんと登録してもらう話。"
 date: 2023-08-10
 categories: ["Tech"]
 tags: ["Hugo","Google Search Console","GithubActions"]
 pager: true
 weight: -2
+toc: true
 ---
 GoogleSearchConsoleって、登録するだけじゃダメで、sitemapとやらをくっつけやなあかんらしいんで、やりました。
 
@@ -43,3 +45,7 @@ GithubPagesなので、GithubActionsつかえるやん！！って思って頑�
 - SearchConsoleにはsitemapを送れ。
 - Hugoならsitemap.xml自動生成される。
 - GithubPagesなら自動化もしとけ。
+
+## 追記　(23/8/12)
+rssは、/inde.xmlに生成されるようです。
+
