@@ -4,7 +4,7 @@ date: 2023-08-10
 categories: ["Tech"]
 tags: ["Hugo","md","yml"]
 pager: true
-weight: 3
+weight: -3
 description: "Hugoで前(次)の投稿へボタンが出てこなかったのを、解決する話。参考までに..."
 ---
 ## 事の発端
