@@ -34,7 +34,7 @@ enableGitInfo = true
     twitter_cards = true
     listPageDateFormat = "2006-01-02"
     singlePageDateFormat = "2006-01-02"
-    pager: true
+    pager = true
     
 
 # ページのテーマカラー
