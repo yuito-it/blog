@@ -5,6 +5,7 @@ categories: ["Tech"]
 tags: ["Hugo","Google Analytics","Google Search Console"]
 pager: true
 weight: -1
+toc: true
 ---
 いや～、やっぱねぇ、検索に引っかかってもらいたいよね。始めたからには。
 
