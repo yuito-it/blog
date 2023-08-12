@@ -4,7 +4,7 @@ date: 2023-08-10
 categories: ["Tech"]
 tags: ["Hugo","Google Search Console","GithubActions"]
 pager: true
-weight: 2
+weight: -2
 ---
 GoogleSearchConsoleって、登録するだけじゃダメで、sitemapとやらをくっつけやなあかんらしいんで、やりました。
 
