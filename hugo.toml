@@ -32,8 +32,10 @@ enableGitInfo = true
     authorbox = true
     post_meta = ["date", "categories"]
     twitter_cards = true
-    listPageDateFormat = "2006-01-02 15:04"
-    singlePageDateFormat = "2006-01-02 15:04"
+    listPageDateFormat = "2006-01-02"
+    singlePageDateFormat = "2006-01-02"
+    pager: true
+    
 
 # ページのテーマカラー
 [Params.style.vars]
@@ -52,3 +54,8 @@ enableGitInfo = true
     single = "right"
     widgets = ["search", "recent", "categories", "taglist", "social"]
 
+[markup]
+    [markup.tableOfContents]
+        endLevel = 2
+        ordered = true
+        startLevel = 2
