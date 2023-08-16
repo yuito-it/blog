@@ -10,7 +10,8 @@ thumbnail: "./Entrance.jpg"
 weight: -4
 description: "7/22、神山まるごと高専に行ってきました。神山まるごと高専の校舎見学、素晴らしかったです！"
 toc: true
-draft: false
+draft: true
+memo: "jpgからpngに変換しろ"
 ---
 神山まるごと高専のオープンスクールに行ってきました。
 随分と時間がたってしまいましたが、そのことのことを書いておきたいと思います。
