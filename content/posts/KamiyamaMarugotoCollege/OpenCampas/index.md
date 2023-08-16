@@ -4,9 +4,9 @@ date: 2023-08-16
 categories: ["神山まるごと高専"]
 tags: ["進路","神山まるごと高専","起業"]
 pager: true
-eyecatch: "content/posts/KamiyamaMarugotoCollege/OpenCampas/Entrance.png"
-image: "content/posts/KamiyamaMarugotoCollege/OpenCampas/Entrance.png"
-humbnail: "content/posts/KamiyamaMarugotoCollege/OpenCampas/Entrance.png"
+eyecatch: "./Entrance.png"
+image: "./Entrance.png"
+humbnail: "./Entrance.png"
 weight: -4
 description: "7/22、神山まるごと高専に行ってきました。神山まるごと高専の校舎見学、素晴らしかったです！"
 toc: true
