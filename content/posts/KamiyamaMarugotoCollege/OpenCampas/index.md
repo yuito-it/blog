@@ -5,12 +5,12 @@ categories: ["神山まるごと高専"]
 tags: ["進路","神山まるごと高専","起業"]
 pager: true
 eyecatch: "./Entrance.png"
-image: "./Entrance.png"
+image: 
+- "./Entrance.png"
 humbnail: "./Entrance.png"
 weight: -4
 description: "7/22、神山まるごと高専に行ってきました。神山まるごと高専の校舎見学、素晴らしかったです！"
 toc: true
-draft: true
 ---
 神山まるごと高専のオープンスクールに行ってきました。
 随分と時間がたってしまいましたが、そのことのことを書いておきたいと思います。
