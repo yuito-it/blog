@@ -5,9 +5,9 @@ categories: ["神山まるごと高専"]
 tags: ["進路","神山まるごと高専","起業"]
 pager: true
 image: 
-- "./posts/kmc/opemcampas/Entrance.png"
-thumbnail: "./posts/kmc/opemcampas/Entrance.png"
-thumbnailImage: "./posts/kmc/opemcampas/Entrance.png"
+- "./posts/kmc/opencampas/Entrance.png"
+thumbnail: "./posts/kmc/opencampas/Entrance.png"
+thumbnailImage: "./posts/kmc/opencampas/Entrance.png"
 weight: -4
 description: "7/22、神山まるごと高専に行ってきました。神山まるごと高専の校舎見学、素晴らしかったです！"
 toc: true
