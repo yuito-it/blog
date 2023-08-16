@@ -6,9 +6,9 @@ tags: ["進路","神山まるごと高専","起業"]
 pager: true
 eyecatch: "./Entrance.png"
 image: 
-- "./Entrance.png"
-thumbnail: "./Entrance.png"
-thumbnailImage: "./Entrance.png"
+- "./content/posts/KMC/OpenCampas/Entrance.png"
+thumbnail: "./content/posts/KMC/OpenCampas/Entrance.png"
+thumbnailImage: "./content/posts/KMC/OpenCampas/Entrance.png"
 weight: -4
 description: "7/22、神山まるごと高専に行ってきました。神山まるごと高専の校舎見学、素晴らしかったです！"
 toc: true
