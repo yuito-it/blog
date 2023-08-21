@@ -1,71 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://yuito-it.github.io/blog/posts/kmc/opencampas/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
+    <lastmod>2023-08-21</lastmod>
+  </url>
+  <url>
     <loc>https://yuito-it.github.io/blog/posts/tech/next-post/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
+    <lastmod>2023-08-21</lastmod>
+  </url>
+  <url>
     <loc>https://yuito-it.github.io/blog/posts/tech/googlesc-resist2/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
+    <lastmod>2023-08-21</lastmod>
+  </url>
+  <url>
     <loc>https://yuito-it.github.io/blog/posts/tech/search-console-resist/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
+    <lastmod>2023-08-21</lastmod>
+  </url>
+  <url>
     <loc>https://yuito-it.github.io/blog/categories/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
+    <lastmod>2023-08-21</lastmod>
+  </url>
+  <url>
     <loc>https://yuito-it.github.io/blog/posts/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
+    <lastmod>2023-08-21</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://yuito-it.github.io/blog/tags/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
+    <lastmod>2023-08-21</lastmod>
+  </url>
+  <url>
     <loc>https://yuito-it.github.io/blog/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
-    <loc>https://yuito-it.github.io/blog/tags/%E8%B5%B7%E6%A5%AD/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
-    <loc>https://yuito-it.github.io/blog/tags/%E7%A5%9E%E5%B1%B1%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8%E9%AB%98%E5%B0%82/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
-    <loc>https://yuito-it.github.io/blog/categories/%E7%A5%9E%E5%B1%B1%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8%E9%AB%98%E5%B0%82/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
-    <loc>https://yuito-it.github.io/blog/tags/%E9%80%B2%E8%B7%AF/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
-    <loc>https://yuito-it.github.io/blog/tags/githubactions/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
-    <loc>https://yuito-it.github.io/blog/tags/google-search-console/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
-    <loc>https://yuito-it.github.io/blog/tags/hugo/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
-    <loc>https://yuito-it.github.io/blog/tags/md/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
-    <loc>https://yuito-it.github.io/blog/categories/tech/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
-    <loc>https://yuito-it.github.io/blog/tags/yml/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
-    <loc>https://yuito-it.github.io/blog/tags/gitthub-pages/</loc>
-    <lastmod>2023-08-12T19:12:29+09:00</lastmod>
-  </url><url>
-    <loc>https://yuito-it.github.io/blog/tags/google-analytics/</loc>
-    <lastmod>2023-08-21T16:17:28+09:00</lastmod>
-  </url><url>
-    <loc>https://yuito-it.github.io/blog/tags/markdown/</loc>
-    <lastmod>2023-08-12T19:12:29+09:00</lastmod>
-  </url><url>
+    <lastmod>2023-08-21</lastmod>
+  </url>
+  <url>
     <loc>https://yuito-it.github.io/blog/posts/tech/blog-start/</loc>
-    <lastmod>2023-08-12T19:12:29+09:00</lastmod>
+    <lastmod>2023-08-12</lastmod>
   </url>
 </urlset>
