@@ -4,13 +4,13 @@ date: 2023-08-16
 categories: ["神山まるごと高専"]
 tags: ["進路","神山まるごと高専","起業"]
 pager: true
-image: "./posts/kmc/opencampas/Entrance.png"
-thumbnail: "./posts/kmc/opencampas/Entrance.png"
-thumbnailImage: "./posts/kmc/opencampas/Entrance.png"
+image: "./posts/kmc/opencampas/Entrance.webp"
+thumbnail: "./posts/kmc/opencampas/Entrance.webp"
+thumbnailImage: "./posts/kmc/opencampas/Entrance.webp"
 weight: -4
 description: "7/22、神山まるごと高専に行ってきました。神山まるごと高専の校舎見学、素晴らしかったです！"
 toc: true
-meta_image: "./posts/kmc/opencampas/Entrance.png"
+meta_image: "./posts/kmc/opencampas/Entrance.webp"
 ---
 神山まるごと高専のオープンスクールに行ってきました。
 随分と時間がたってしまいましたが、そのことのことを書いておきたいと思います。
@@ -61,6 +61,6 @@ meta_image: "./posts/kmc/opencampas/Entrance.png"
 ## おまけ
 当日の昼食(かまや)、滝、夕食(徳島駅のビル、地下一階、徳島ラーメン)
 
-{{<figure src="./kamaya.png" alt="モード" width="75%">}}
-{{<figure src="./taki.png" alt="モード" width="75%">}}
-{{<figure src="./ra-menn.png" alt="モード" width="75%">}}
+{{<figure src="./kamaya.webp" alt="モード" width="75%">}}
+{{<figure src="./taki.webp" alt="モード" width="75%">}}
+{{<figure src="./ra-menn.webp" alt="モード" width="75%">}}

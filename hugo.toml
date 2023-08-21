@@ -1,5 +1,5 @@
 # 公開するページのURL
-baseURL = "https://yuito-it.github.io/blog"
+baseURL = "https://yuito-it.github.io/blog/"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"

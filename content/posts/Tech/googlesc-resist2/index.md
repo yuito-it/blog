@@ -25,7 +25,7 @@ rssは設定が必要なのでめんどいからやりません。今回は割�
 
 ## 登録
 まず、SearchConsoleのサイトマップタブに飛びます。
-{{<figure src="./sitemap.png" alt="sitemapを登録" width="75%">}}
+{{<figure src="./sitemap.webp" alt="sitemapを登録" width="75%">}}
 ここで、新しいサイトマップの追加のところに、sitemap.xmlと入力。
 これで送信するだけです。
 
