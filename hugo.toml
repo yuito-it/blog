@@ -5,6 +5,7 @@ languageCode = "ja"
 DefaultContentLanguage = "ja"
 HasCJKLanguage = true
 enableRobotsTXT = true
+publishDir = "docs"
 
 # ブログのタイトル
 title = "Yuito's Develpment Blog"
