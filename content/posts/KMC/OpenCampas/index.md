@@ -4,7 +4,8 @@ date: 2023-08-16
 categories: ["神山まるごと高専"]
 tags: ["進路","神山まるごと高専","起業"]
 pager: true
-image: "./posts/kmc/opencampas/Entrance.webp"
+images:
+    - "./posts/kmc/opencampas/Entrance.webp"
 thumbnail: "./posts/kmc/opencampas/Entrance.webp"
 thumbnailImage: "./posts/kmc/opencampas/Entrance.webp"
 weight: -4
