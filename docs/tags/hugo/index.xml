@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Yuito&#39;s Develpment Blog</title>
+    <link>https://yuito-it.github.io/blog/tags/hugo/</link>
+    <description>Recent content in Hugo on Yuito&#39;s Develpment Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yuito-it.github.io/blog/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugoで「前の投稿」ボタンが出てこなかった話</title>
+      <link>https://yuito-it.github.io/blog/posts/tech/next-post/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuito-it.github.io/blog/posts/tech/next-post/</guid>
+      <description>事の発端 友人にこのブログを見せたとき、 「え？他の記事あったん？次へボタンとかなかったけど&amp;hellip;」 って言われた。 で、見返すと、確かに</description>
+    </item>
+    
+    <item>
+      <title>Google Search Consoleに登録した話 ~sitemap登録~</title>
+      <link>https://yuito-it.github.io/blog/posts/tech/googlesc-resist2/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuito-it.github.io/blog/posts/tech/googlesc-resist2/</guid>
+      <description>GoogleSearchConsoleって、登録するだけじゃダメで、sitemapとやらをくっつけやなあかんらしいんで、やりました。 site</description>
+    </item>
+    
+    <item>
+      <title>Google Search Consoleに登録した話 ~とりあえずサイトに登録だけ~</title>
+      <link>https://yuito-it.github.io/blog/posts/tech/search-console-resist/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuito-it.github.io/blog/posts/tech/search-console-resist/</guid>
+      <description>いや～、やっぱねぇ、検索に引っかかってもらいたいよね。始めたからには。 Google Search Consoleに登録する前に Google Search Console って、実は自分２回目です。 ただ、</description>
+    </item>
+    
+    <item>
+      <title>ブログ開設 ~初めてのHugo~</title>
+      <link>https://yuito-it.github.io/blog/posts/tech/blog-start/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuito-it.github.io/blog/posts/tech/blog-start/</guid>
+      <description>皆さんこんにちは、暇人兼中学生兼なんでもやる人、唯人です。 いやぁ～、念願のブログ開設がかないましたよ。 事の始まり もともとブログつくろうと思っ</description>
+    </item>
+    
+  </channel>
+</rss>

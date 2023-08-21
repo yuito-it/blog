@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Yuito&#39;s Develpment Blog</title>
+    <link>https://yuito-it.github.io/blog/categories/</link>
+    <description>Recent content in Categories on Yuito&#39;s Develpment Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 16 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yuito-it.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>神山まるごと高専</title>
+      <link>https://yuito-it.github.io/blog/categories/%E7%A5%9E%E5%B1%B1%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8%E9%AB%98%E5%B0%82/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuito-it.github.io/blog/categories/%E7%A5%9E%E5%B1%B1%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8%E9%AB%98%E5%B0%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://yuito-it.github.io/blog/categories/tech/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuito-it.github.io/blog/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
