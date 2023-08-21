@@ -14,20 +14,17 @@ googleAnalytics = "G-S01FFC4N61"
 theme = "Mainroad"
 paginate = 20
 
-# コメント用
-disqusShortname = "yuito-it"
-
 enableGitInfo = true
 
 # 自己紹介
 [Author]
     name = "唯人"
     bio = "神山まるごと高専を目指す、一介の中学三年生。\n ポリシーは「なんでもやってみる」"
-    avatar = "img/avatar.png"
+    avatar = "img/avatar.webp"
 
 [Params]
     customCSS = ["css/custom.css"]
-    copyright = "(c)yuito-it 2023,(c)kat0h 2021"
+    copyright = "yuito-it 2023,kat0h 2021"
     readmore = true
     authorbox = true
     post_meta = ["date", "categories"]
@@ -36,6 +33,8 @@ enableGitInfo = true
     singlePageDateFormat = "2006-01-02"
     pager = true
     opengraph = true
+    # コメント用
+    giscus = true
     
 
 # ページのテーマカラー
@@ -44,7 +43,7 @@ enableGitInfo = true
 
 # SNS等のユーザー名
 [Params.widgets.social]
-  twitter = "yuito_it_ "
+  twitter = "yuito_it_"
   github = "yuito-it"
   telegram = "yuitoENGINEER"
   email = "yuito_it@outlook.jp"
