@@ -10,6 +10,7 @@ pager: true
 weight: -2
 toc: true
 author: ["Yuito Akatsuki"]
+type: article
 ---
 GoogleSearchConsoleって、登録するだけじゃダメで、sitemapとやらをくっつけやなあかんらしいんで、やりました。
 

@@ -9,6 +9,7 @@ pager: true
 weight: 0
 toc: true
 author: ["Yuito Akatsuki"]
+type: article
 ---
 <!-- menu: mainを使うとトップバーに固定される -->
 

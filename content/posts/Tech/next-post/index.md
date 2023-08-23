@@ -9,6 +9,7 @@ weight: -3
 toc: true
 description: "Hugoで前(次)の投稿へボタンが出てこなかったのを、解決する話。参考までに..."
 author: ["Yuito Akatsuki"]
+type: article
 ---
 ## 事の発端
 友人にこのブログを見せたとき、

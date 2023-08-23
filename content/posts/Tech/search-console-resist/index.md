@@ -9,6 +9,7 @@ images:
 weight: -1
 toc: true
 author: ["Yuito Akatsuki"]
+type: article
 ---
 いや～、やっぱねぇ、検索に引っかかってもらいたいよね。始めたからには。
 
