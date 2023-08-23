@@ -1,11 +1,14 @@
 ---
 title: "ブログ開設 ~初めてのHugo~"
-date: 2023-08-09
+date: 2023-08-09T00:00:00+09:00
+images: 
+    - OGP/Tech/blog-start.png?{{ .Lastmod.Format "20060102150405" }}
 categories: ["Tech"]
 tags: ["Hugo","Gitthub Pages","Markdown"]
 pager: true
 weight: 0
 toc: true
+author: ["Yuito Akatsuki"]
 ---
 <!-- menu: mainを使うとトップバーに固定される -->
 

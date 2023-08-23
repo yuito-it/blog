@@ -1,12 +1,15 @@
 ---
 title: "Google Search Consoleに登録した話 ~sitemap登録~"
 discription: "サイトマップ送信して、ちゃんと登録してもらう話。"
-date: 2023-08-10
+date: 2023-08-10T00:00:00+09:00
+images: 
+    - OGP/Tech/googlesc-resist2.png?{{ .Lastmod.Format "20060102150405" }}
 categories: ["Tech"]
 tags: ["Hugo","Google Search Console","GithubActions"]
 pager: true
 weight: -2
 toc: true
+author: ["Yuito Akatsuki"]
 ---
 GoogleSearchConsoleって、登録するだけじゃダメで、sitemapとやらをくっつけやなあかんらしいんで、やりました。
 

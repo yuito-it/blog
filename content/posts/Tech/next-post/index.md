@@ -1,11 +1,14 @@
 ---
 title: "Hugoで「前の投稿」ボタンが出てこなかった話"
-date: 2023-08-10
+date: 2023-08-10T00:00:00+09:00
+images: 
+    - OGP/Tech/next-post.png?{{ .Lastmod.Format "20060102150405" }}
 categories: ["Tech"]
 tags: ["Hugo","md","yml"]
 weight: -3
 toc: true
 description: "Hugoで前(次)の投稿へボタンが出てこなかったのを、解決する話。参考までに..."
+author: ["Yuito Akatsuki"]
 ---
 ## 事の発端
 友人にこのブログを見せたとき、

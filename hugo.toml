@@ -8,35 +8,42 @@ enableRobotsTXT = true
 publishDir = "docs"
 
 # ブログのタイトル
-title = "Yuito's Develpment Blog"
+title = "Yuito's Dev Blog"
 
 googleAnalytics = "G-S01FFC4N61"
 
 theme = "Mainroad"
-paginate = 20
+paginate = 10
 
 enableGitInfo = true
 
 # 自己紹介
 [Author]
-    name = "唯人"
-    bio = "神山まるごと高専を目指す、一介の中学三年生。\n ポリシーは「なんでもやってみる」"
-    avatar = "img/avatar.webp"
+  name = "唯人"
+  bio = "神山まるごと高専を目指す、一介の中学三年生。\n ポリシーは「なんでもやってみる」"
+  avatar = "img/avatar.webp"
 
 [Params]
-    customCSS = ["css/custom.css"]
-    copyright = "yuito-it 2023,kat0h 2021"
-    readmore = true
-    authorbox = true
-    post_meta = ["date", "categories"]
-    twitter_cards = true
-    listPageDateFormat = "2006-01-02"
-    singlePageDateFormat = "2006-01-02"
-    pager = true
-    opengraph = true
-    # コメント用
-    giscus = true
-    
+  description = "中学生デベロッパー、唯人の成長期と雑記帳。" 
+  customCSS = ["css/custom.css"]
+  copyright = "yuito-it 2023,kat0h 2021"
+  readmore = true
+  authorbox = true
+  schema = true
+  post_meta = ["date", "categories"]
+  twitter_cards = true
+  listPageDateFormat = "2023-08-16T15:04:05+09:00"
+  singlePageDateFormat = "2023-08-16T15:04:05+09:00"
+  pager = true
+  opengraph = true
+  # コメント用
+  giscus = true
+  toc = true
+
+[Params.logo]
+  image = "img/avatar.webp"
+  title = "Yuito's Dev Blog"
+  subtitle = "中学生デベロッパーの成長期"
 
 # ページのテーマカラー
 [Params.style.vars]
@@ -48,12 +55,13 @@ enableGitInfo = true
   github = "yuito-it"
   telegram = "yuitoENGINEER"
   email = "yuito_it@outlook.jp"
+  bitbucket = "yuito-it"
 
 [Params.sidebar]
     home = "right"
     list = "right"
     single = "right"
-    widgets = ["search", "recent", "categories", "taglist", "social"]
+    widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
 
 [markup]
     [markup.tableOfContents]

@@ -1,11 +1,14 @@
 ---
 title: "Google Search Consoleに登録した話 ~とりあえずサイトに登録だけ~"
-date: 2023-08-09
+date: 2023-08-09T00:00:00+09:00
 categories: ["Tech"]
 tags: ["Hugo","Google Analytics","Google Search Console"]
 pager: true
+images: 
+    - OGP/Tech/search-console-resist.png?{{ .Lastmod.Format "20060102150405" }}
 weight: -1
 toc: true
+author: ["Yuito Akatsuki"]
 ---
 いや～、やっぱねぇ、検索に引っかかってもらいたいよね。始めたからには。
 

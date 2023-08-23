@@ -1,11 +1,12 @@
 ---
 title: "神山まるごと高専・オープンスクールに行ってきた話。"
-date: 2023-08-16
+date: 2023-08-16T00:00:00+09:00
 categories: ["神山まるごと高専"]
 tags: ["進路","神山まるごと高専","起業"]
 pager: true
-images:
-    - "./posts/kmc/opencampas/Entrance.webp"
+author: ["YuitoAkatsuki"]
+images: 
+    - OGP/KMC/OpenCampas.png?{{ .Lastmod.Format "20060102150405" }}
 thumbnail: "./posts/kmc/opencampas/Entrance.webp"
 thumbnailImage: "./posts/kmc/opencampas/Entrance.webp"
 weight: -4

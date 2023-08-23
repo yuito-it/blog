@@ -3,7 +3,9 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 categories: [""]
 tags: [""]
-pager: {{ .pager }}
+pager: true
 description: 
+author: ["Yuito Akatsuki"]
+type: article
 ---
 
