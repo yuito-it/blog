@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gitthub Pages on Yuito&#39;s Develpment Blog</title>
+    <title>Gitthub Pages on Yuito&#39;s Dev Blog</title>
     <link>https://yuito-it.github.io/blog/tags/gitthub-pages/</link>
-    <description>Recent content in Gitthub Pages on Yuito&#39;s Develpment Blog</description>
+    <description>Recent content in Gitthub Pages on Yuito&#39;s Dev Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://yuito-it.github.io/blog/tags/gitthub-pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0900</lastBuildDate><atom:link href="https://yuito-it.github.io/blog/tags/gitthub-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ブログ開設 ~初めてのHugo~</title>
       <link>https://yuito-it.github.io/blog/posts/tech/blog-start/</link>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0900</pubDate>
       
       <guid>https://yuito-it.github.io/blog/posts/tech/blog-start/</guid>
       <description>皆さんこんにちは、暇人兼中学生兼なんでもやる人、唯人です。 いやぁ～、念願のブログ開設がかないましたよ。 事の始まり もともとブログつくろうと思っ</description>
