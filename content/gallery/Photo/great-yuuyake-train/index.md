@@ -12,4 +12,3 @@ thumbnailImage: "./gallery/photo/great-yuuyake-train/IMG_0956_1_.webp"
 weight: -5
 ---
 夕焼けと近鉄は最強。
-![Alt text](IMG_0956_1_.webp)
