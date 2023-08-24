@@ -15,19 +15,23 @@ type: article
 GoogleSearchConsoleって、登録するだけじゃダメで、sitemapとやらをくっつけやなあかんらしいんで、やりました。
 
 ## sitemapとはなんぞや
+
 サイトマップとは、GoogleのBotが、サイトが更新されてないかとかを見て回る時の道しるべです。
 
 こいつを登録していないと、Botがサイトを見てくれず、登録されません。
 送るファイルの種類としては、
+
 - sitemap.xml
 - feed.xml(atomやrss)
 
 ## Hugoでは
+
 Hugoでは、このsitemap.xmlのファイルは自動生成されます。
 rssは設定が必要なのでめんどいからやりません。今回は割愛します。
 `/sitemap.xml`というところに自動生成されます。
 
 ## 登録
+
 まず、SearchConsoleのサイトマップタブに飛びます。
 {{<figure src="./sitemap.webp" alt="sitemapを登録" width="75%">}}
 ここで、新しいサイトマップの追加のところに、sitemap.xmlと入力。
@@ -36,6 +40,7 @@ rssは設定が必要なのでめんどいからやりません。今回は割�
 簡単ですね。
 
 ## 自動でアップデートさせる
+
 これが面倒でした。
 
 GithubPagesなので、GithubActionsつかえるやん！！って思って頑張って組みました。
@@ -46,10 +51,11 @@ GithubPagesなので、GithubActionsつかえるやん！！って思って頑�
 ちなみに、rssやってないので、下の２行は無駄ですww
 
 ## まとめ
+
 - SearchConsoleにはsitemapを送れ。
 - Hugoならsitemap.xml自動生成される。
 - GithubPagesなら自動化もしとけ。
 
 ## 追記　(23/8/12)
-rssは、/inde.xmlに生成されるようです。
 
+rssは、/inde.xmlに生成されるようです。

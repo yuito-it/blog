@@ -24,7 +24,7 @@ enableGitInfo = true
   avatar = "img/avatar.webp"
 
 [Params]
-  description = "中学生デベロッパー、唯人の成長期と雑記帳。" 
+  description = "中学生デベロッパー、唯人の成長記と雑記帳。" 
   customCSS = ["css/custom.css"]
   copyright = "yuito-it 2023,kat0h 2021"
   readmore = true
@@ -43,7 +43,7 @@ enableGitInfo = true
 [Params.logo]
   image = "img/avatar.webp"
   title = "Yuito's Dev Blog"
-  subtitle = "中学生デベロッパーの成長期"
+  subtitle = "中学生デベロッパーの成長記と雑記帳"
 
 # ページのテーマカラー
 [Params.style.vars]

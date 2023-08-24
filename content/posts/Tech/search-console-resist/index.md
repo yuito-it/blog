@@ -14,6 +14,7 @@ type: article
 いや～、やっぱねぇ、検索に引っかかってもらいたいよね。始めたからには。
 
 ## Google Search Consoleに登録する前に
+
 Google Search Console って、実は自分２回目です。
 
 ただ、Hugoのやり方は知らないんで公式のやつとかテンプレートのReadmeとかを読み漁りました。
@@ -21,7 +22,9 @@ Google Search Console って、実は自分２回目です。
 で、Google Analyticsに登録しとけば、解析もできて、サーチコンソールに入れやすいのを知っていたので、ちょっとやりましょうということで。
 
 ## Google Analyticsに登録する
+
 準備物
+
 - Google アカウント
 - やる気
 
@@ -55,10 +58,12 @@ Google Search Console って、実は自分２回目です。
 ```config.toml
 googleAnalytics = 'G-から始まる測定ID'
 ```
+
 とすればOKです。
 これで、pushして放置。
 
 ## Search Consoleへ
+
 まず、[GoogleSearchConsole](https://search.google.com/search-console)へ。
 {{<figure src="./search-console.webp" alt="ビジネスの目標" width="75%">}}
 で、urlプレフィックスのほうを選択、入力。
@@ -67,6 +72,7 @@ googleAnalytics = 'G-から始まる測定ID'
 確認を押せばできるはずです。
 
 ## まとめ
+
 GoogleAnalytics使えば解析もできて認証も楽。
 
 ではでは、またどこかで。。。
