@@ -1,6 +1,6 @@
 ---
 title: 丸山千枚田　稲刈りの集い2023
-categories: [丸山千枚田]
+categories: [日常]
 date: 2023-09-10-T14:12:25+09:00
 tags: [丸山千枚田,Photo]
 pager: true
