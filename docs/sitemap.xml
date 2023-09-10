@@ -1,53 +1,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yuito-it.github.io/blog/gallery/photo/maruyama_senmaida2023/</loc>
+  </url>
+  <url>
     <loc>https://yuito-it.github.io/blog/gallery/photo/great-yuuyake-train/</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-08-24</lastmod>
   </url>
   <url>
     <loc>https://yuito-it.github.io/blog/posts/kmc/opencampas/</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-08-24</lastmod>
   </url>
   <url>
     <loc>https://yuito-it.github.io/blog/posts/tech/next-post/</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-08-24</lastmod>
   </url>
   <url>
     <loc>https://yuito-it.github.io/blog/posts/tech/googlesc-resist2/</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-08-24</lastmod>
   </url>
   <url>
     <loc>https://yuito-it.github.io/blog/posts/tech/search-console-resist/</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-08-24</lastmod>
   </url>
   <url>
     <loc>https://yuito-it.github.io/blog/categories/</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-08-24</lastmod>
+  </url>
+  <url>
+    <loc>https://yuito-it.github.io/blog/gallery/photo/</loc>
+    <lastmod>2023-08-24</lastmod>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://yuito-it.github.io/blog/tags/</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-08-24</lastmod>
   </url>
   <url>
     <loc>https://yuito-it.github.io/blog/</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-08-24</lastmod>
+  </url>
+  <url>
+    <loc>https://yuito-it.github.io/blog/posts/kmc/</loc>
+    <lastmod>2023-08-24</lastmod>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://yuito-it.github.io/blog/posts/tech/blog-start/</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-08-24</lastmod>
   </url>
   <url>
     <loc>https://yuito-it.github.io/blog/about/</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-08-24</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://yuito-it.github.io/blog/posts/</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-08-24</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://yuito-it.github.io/blog/gallery/</loc>
-    <lastmod>2023-08-23</lastmod>
+    <lastmod>2023-08-24</lastmod>
     <priority>1.0</priority>
   </url>
 </urlset>

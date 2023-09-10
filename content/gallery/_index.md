@@ -1,9 +1,11 @@
 ---
 title: "Gallery"
-description: "画像一覧。"
+description: "文字よりも画像や動画が中心の、ギャラリーです。"
 draft: false
-subtitle: "自由気ままに貼られた画像たち。"
+lead: "自由気ままに貼られた画像や動画たち。"
 menu: main
 ListType: "Gallery"
+authorbox: true
+sidebar: false
 ---
-画像のみの、ギャラリーです。
+文字よりも画像や動画が中心の、ギャラリーです。

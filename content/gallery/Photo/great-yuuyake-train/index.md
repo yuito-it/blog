@@ -2,7 +2,7 @@
 title: 夕焼けと電車
 categories: [Train]
 date: 2023-08-23T14:12:25+09:00
-tags: [Train,Photo,yuuyake]
+tags: [Train,Photo,夕焼け]
 pager: true
 description: 夕焼けと近鉄電車
 images: 
